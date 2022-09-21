@@ -1,4 +1,4 @@
-function Queue() {
+var Queue = function() {
   collection = [];
 
   this.print = function () {
